@@ -23,22 +23,6 @@ TextAnalysis = "a2db99b7-8b79-58f8-94bf-bbc811eef33d"
 WordTokenizers = "796a5d58-b03d-544a-977e-18100b691f6e"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
-[compat]
-BSON = "0.3.3"
-CUDA = "3"
-CorpusLoaders = "0.3"
-DataDeps = "0.7"
-DataStructures = "0.18.9"
-Flux = "0.13.14"
-JSON = "0.21.1"
-Languages = "0.4.3"
-NNlib = "0.8.19"
-StatsBase = "0.33.6"
-TextAnalysis = "0.7.3"
-WordTokenizers = "0.5.6"
-Zygote = "0.6.10"
-julia = "1.6"
-
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
